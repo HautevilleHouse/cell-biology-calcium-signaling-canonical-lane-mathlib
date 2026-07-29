@@ -1,0 +1,14 @@
+import CellBiologyCalciumSignalingCanonicalLaneLean.AdmissibleClass
+import CellBiologyCalciumSignalingCanonicalLaneLean.BridgeLemmas
+import CellBiologyCalciumSignalingCanonicalLaneLean.GateLemmas
+import CellBiologyCalciumSignalingCanonicalLaneLean.FinalTheorem
+import CellBiologyCalciumSignalingCanonicalLaneLean.SourcePackage
+import CellBiologyCalciumSignalingCanonicalLaneLean.Formalization
+
+namespace HautevilleHouse
+namespace CellBiologyCalciumSignalingCanonicalLaneLean
+
+-- Root module: all imports for the core package
+
+end CellBiologyCalciumSignalingCanonicalLaneLean
+end HautevilleHouse
